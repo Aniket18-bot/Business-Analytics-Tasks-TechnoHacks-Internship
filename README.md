@@ -24,12 +24,12 @@ Learn the basics of cleaning raw business data using Microsoft Excel.
 - `CLEAN DATA.xlsx` → Cleaned dataset  
 
 ---
-📌 Task 2: Descriptive Statistics in Excel  
+## 📌 Task 2: Descriptive Statistics in Excel  
 
-**Problem Statement**  
+### Problem Statement  
 Use Excel to calculate descriptive statistics such as mean, median, mode, and standard deviation on a business dataset.  
 
-**Steps Performed**  
+### Steps Performed
 - Imported an employee performance and productivity dataset into Excel.  
 - Applied Excel functions:  
   - `=AVERAGE()` → Mean  
@@ -42,10 +42,10 @@ Use Excel to calculate descriptive statistics such as mean, median, mode, and st
   - Relationship between training hours and performance scores.  
   - Satisfaction levels, sick days impact, and resignation checks.  
 
-**Outcome**  
+### Outcome
 - Gained insights into workforce trends such as pay distribution, workload balance, training effectiveness, and employee engagement.   
 
-**Files**  
+### Files
 - `Extended_Employee_Performance_and_Productivity_Data.csv` → Original dataset  
 - `Descriptive_Statistics.xlsx` → Calculations and analysis
 
